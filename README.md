@@ -1,54 +1,46 @@
 <!-- omit in toc -->
-# Learn functional programming
+# Learn Roc
 
-Hi! I'm on a journey to learn functional programming (FP). Won't you join me?
+This repo used to list resources for several functional programming languages, and [the raw file](https://raw.githubusercontent.com/fpsvogel/learn-functional-programming/main/README.md) still contains commented-out sections for Haskell and Elixir.
+
+But these days I'm more interested in Roc because it's intentionally small and tries to incorporate some of the strengths of dynamic languages, while being fully statically typed.
 
 If you notice any broken links here, please let me know by [opening an issue](https://github.com/fpsvogel/learn-functional-programming/issues/new).
 
 <!-- omit in toc -->
 ## Table of contents
 
-- [Roc](#roc)
-  - [Community](#community)
-  - [Learning](#learning)
-  - [Reference](#reference)
-  - [Exercises](#exercises)
-  - [Projects](#projects)
+- [Community](#community)
+- [Learning](#learning)
+- [Reference](#reference)
+- [Exercises](#exercises)
+- [Projects](#projects)
 
-## Roc
-
-I originally started with Haskell, but it was a bit of a slog. [The raw file of this list](https://raw.githubusercontent.com/fpsvogel/learn-functional-programming/main/README.md) still contains commented-out sections for Haskell and Elixir (another one I *probably* won't learn).
-
-Roc seems like an easier place to start because it's intentionally small and tries to incorporate some of the strengths of dynamic languages, while being fully statically typed.
-
-### Community
+## Community
 
 - [Roc Zulip Chat](https://roc.zulipchat.com/)
 
-### Learning
+## Learning
 
 - [Official tutorial](https://www.roc-lang.org/tutorial)
 - [Introduction to Roc (video)](https://www.youtube.com/watch?v=7R204VUlzGc)
 
-### Reference
+## Reference
 
 - [Examples](https://www.roc-lang.org/examples)
 - Docs: [builtins](https://www.roc-lang.org/builtins), [basic-cli](https://www.roc-lang.org/packages/basic-cli/0.15.0)
 - [Roc packages](https://hasnep.github.io/roc-packages/)
 
-### Exercises
+## Exercises
 
 - [Exercism - Roc](https://exercism.org/tracks/roc)
 - [Advent of Code](https://adventofcode.com) with [Roc template](https://github.com/lukewilliamboswell/aoc-template) and [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023)
 
-### Projects to study
+## Projects
 
-- [Roctris](https://github.com/jared-cone/roctris): terminal Tetris clone
-- [roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) and examples
-
-### Projects to build
-
-- Make a game (text-based?).
+- Make a game, probably text-based. But if graphical, study these:
+  - [Roctris](https://github.com/jared-cone/roctris): terminal Tetris clone
+  - [roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) and examples
 
 <!--## FP in non-FP languages
 
