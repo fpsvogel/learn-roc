@@ -34,7 +34,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ## Exercises
 
 - [Exercism - Roc](https://exercism.org/tracks/roc)
-- [Advent of Code](https://adventofcode.com) with [Roc template](https://github.com/lukewilliamboswell/aoc-template) and [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023)
+- [Advent of Code](https://adventofcode.com) with the [platform](https://github.com/ostcar/roc-aoc-platform) or [template](https://github.com/lukewilliamboswell/aoc-template). Refer to [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023).
 
 ## Projects
 
