@@ -29,18 +29,22 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 - [Examples](https://www.roc-lang.org/examples)
 - Docs: [builtins](https://www.roc-lang.org/builtins), [basic-cli](https://www.roc-lang.org/packages/basic-cli/0.15.0)
-- [Roc packages](https://hasnep.github.io/roc-packages/)
+- [Roc Awesome](https://github.com/lukewilliamboswell/roc-awesome?tab=readme-ov-file) for lots more resources
 
 ## Exercises
 
 - [Exercism - Roc](https://exercism.org/tracks/roc)
-- [Advent of Code](https://adventofcode.com) with the [platform](https://github.com/ostcar/roc-aoc-platform) or [template](https://github.com/lukewilliamboswell/aoc-template). Refer to [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023).
+- [Advent of Code](https://adventofcode.com) with the [platform](https://github.com/ostcar/roc-aoc-platform) or [template](https://github.com/lukewilliamboswell/aoc-template)
+- Advent of Code solutions in Roc:
+  - [github.com/scott2000/advent-of-code-2023](https://github.com/scott2000/advent-of-code-2023)
+  - [github.com/lukewilliamboswell/aoc](https://github.com/lukewilliamboswell/aoc)
 
 ## Projects
 
 - Make a game, probably text-based. But if graphical, study these:
-  - [Roctris](https://github.com/jared-cone/roctris): terminal Tetris clone
+  - [roc-ray](https://github.com/lukewilliamboswell/roc-ray) and examples
   - [roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) and examples
+  - [Roctris](https://github.com/jared-cone/roctris): terminal Tetris clone
 
 <!--## FP in non-FP languages
 
