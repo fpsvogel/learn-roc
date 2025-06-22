@@ -45,6 +45,9 @@ If you notice any broken links here, please let me know by [opening an issue](ht
   - [roc-ray](https://github.com/lukewilliamboswell/roc-ray) and examples
   - [roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) and examples
   - [Roctris](https://github.com/jared-cone/roctris): terminal Tetris clone
+- Make a web app, either from scratch or using one of these frameworks:
+  - [Joy](https://github.com/niclas-ahden/joy)
+  - [Kingfisher](https://github.com/ostcar/kingfisher)
 
 <!--## FP in non-FP languages
 
